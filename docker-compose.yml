@@ -1,0 +1,73 @@
+version: '3.9'
+
+services:
+  # ASP.NET Core API Service
+  krzychupilot-api:
+    build:
+      context: ./Backend
+      dockerfile: KrzychuPilot.API/Dockerfile
+      args:
+        BUILD_CONFIGURATION: Release
+    container_name: krzychupilot-api
+    ports:
+      - '${API_PORT}:${API_INTERNAL_PORT}'
+    environment:
+      ASPNETCORE_ENVIRONMENT: ${ASPNETCORE_ENVIRONMENT}
+      ASPNETCORE_URLS: ${ASPNETCORE_URLS}
+      ConnectionStrings__DefaultConnection: 'Server=${DB_HOST},${DB_PORT};Database=${DB_NAME};User=${DB_USER};Password=${DB_SA_PASSWORD};TrustServerCertificate=True'
+      OLLAMA_URL: ${OLLAMA_URL}
+      OLLAMA_MODEL: ${OLLAMA_MODEL}
+    depends_on:
+      - krzychupilot-db
+      - ollama
+    restart: unless-stopped
+    networks:
+      - krzychupilot-network
+
+  # Frontend Service
+  krzychupilot-frontend:
+    build:
+      context: ./Frontend
+      dockerfile: Dockerfile
+    container_name: krzychupilot-frontend
+    ports:
+      - '${FRONTEND_PORT}:${FRONTEND_INTERNAL_PORT}'
+    depends_on:
+      - krzychupilot-api
+    restart: unless-stopped
+    networks:
+      - krzychupilot-network
+
+  # SQL Server Database
+  krzychupilot-db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: krzychupilot-db
+    environment:
+      SA_PASSWORD: ${DB_SA_PASSWORD}
+      ACCEPT_EULA: ${ACCEPT_EULA}
+      MSSQL_PID: ${MSSQL_PID}
+    ports:
+      - '${DB_PORT}:1433'
+    volumes:
+      - mssql-data:/var/opt/mssql
+    restart: unless-stopped
+    networks:
+      - krzychupilot-network
+
+  # Ollama AI Model Service
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama
+    ports:
+      - '${OLLAMA_PORT}:11434'
+    restart: unless-stopped
+    networks:
+      - krzychupilot-network
+
+volumes:
+  mssql-data:
+    driver: local
+
+networks:
+  krzychupilot-network:
+    driver: bridge

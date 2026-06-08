@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "KrzychuPilot.API.Controllers.PromptsController",
+    "Method": "Create",
+    "RelativePath": "api/Prompts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "KrzychuPilot.Application.Common.Models.CreatePromptGroupDto.CreatePromptGroupDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "KrzychuPilot.API.Controllers.PromptsController",
+    "Method": "Get",
+    "RelativePath": "api/Prompts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

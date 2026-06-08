@@ -1,0 +1,6 @@
+@KrzychuPilot.API_HostAddress = http://localhost:5277
+
+GET {{KrzychuPilot.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

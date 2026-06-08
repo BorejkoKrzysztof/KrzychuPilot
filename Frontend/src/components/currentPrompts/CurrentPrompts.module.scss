@@ -1,0 +1,12 @@
+.currentPromptsWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-width: 350px;
+
+  height: 90%;
+  min-height: 300px;
+  padding: 1rem;
+  overflow: hidden;
+  grid-area: prompts;
+}

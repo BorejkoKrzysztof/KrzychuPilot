@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B6DD0-D537-4D1B-9BFA-3FBFF9EBF030}|KrzychuPilot.Infrastructure\\KrzychuPilot.Infrastructure.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.infrastructure\\backgroundservices\\promptprocessingworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B6DD0-D537-4D1B-9BFA-3FBFF9EBF030}|KrzychuPilot.Infrastructure\\KrzychuPilot.Infrastructure.csproj|solutionrelative:krzychupilot.infrastructure\\backgroundservices\\promptprocessingworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|solutionrelative:krzychupilot.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.api\\services\\promptnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|solutionrelative:krzychupilot.api\\services\\promptnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.application\\common\\interfaces\\ipromptnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|solutionrelative:krzychupilot.application\\common\\interfaces\\ipromptnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF53764A-5455-436D-AAAC-41E42D2ED298}|KrzychuPilot.Domain\\KrzychuPilot.Domain.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.domain\\entities\\prompttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF53764A-5455-436D-AAAC-41E42D2ED298}|KrzychuPilot.Domain\\KrzychuPilot.Domain.csproj|solutionrelative:krzychupilot.domain\\entities\\prompttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.application\\prompts\\queries\\getprompts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|solutionrelative:krzychupilot.application\\prompts\\queries\\getprompts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.api\\controllers\\promptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|solutionrelative:krzychupilot.api\\controllers\\promptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|solutionrelative:krzychupilot.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.application\\common\\models\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|solutionrelative:krzychupilot.application\\common\\models\\responseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.application\\common\\models\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|solutionrelative:krzychupilot.application\\common\\models\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.application\\prompts\\commands\\createprompt\\createpromptgroupvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|solutionrelative:krzychupilot.application\\prompts\\commands\\createprompt\\createpromptgroupvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.application\\prompts\\commands\\createprompt\\createpromptgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|solutionrelative:krzychupilot.application\\prompts\\commands\\createprompt\\createpromptgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|solutionrelative:krzychupilot.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|solutionrelative:krzychupilot.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.application\\common\\models\\createpromptgroupdto\\createpromptgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|solutionrelative:krzychupilot.application\\common\\models\\createpromptgroupdto\\createpromptgroupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B6DD0-D537-4D1B-9BFA-3FBFF9EBF030}|KrzychuPilot.Infrastructure\\KrzychuPilot.Infrastructure.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B6DD0-D537-4D1B-9BFA-3FBFF9EBF030}|KrzychuPilot.Infrastructure\\KrzychuPilot.Infrastructure.csproj|solutionrelative:krzychupilot.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|solutionrelative:krzychupilot.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B6DD0-D537-4D1B-9BFA-3FBFF9EBF030}|KrzychuPilot.Infrastructure\\KrzychuPilot.Infrastructure.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.infrastructure\\migrations\\20260607110135_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B6DD0-D537-4D1B-9BFA-3FBFF9EBF030}|KrzychuPilot.Infrastructure\\KrzychuPilot.Infrastructure.csproj|solutionrelative:krzychupilot.infrastructure\\migrations\\20260607110135_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|solutionrelative:krzychupilot.application\\common\\interfaces\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.api\\hubs\\prompthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|solutionrelative:krzychupilot.api\\hubs\\prompthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.application\\krzychupilot.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BC5CF29-D118-4813-8DA8-F556EBEA0101}|KrzychuPilot.Application\\KrzychuPilot.Application.csproj|solutionrelative:krzychupilot.application\\krzychupilot.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|c:\\users\\48693\\desktop\\krzychupilot\\backend\\krzychupilot.api\\krzychupilot.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{689C7A1C-06BA-47EF-A92F-D81A81A410D2}|KrzychuPilot.API\\KrzychuPilot.API.csproj|solutionrelative:krzychupilot.api\\krzychupilot.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "KrzychuPilot.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T08:48:29.202Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{797f5b3d-853a-4854-a9f2-c488bac2661b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Program.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.API\\Program.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Program.cs",
+              "RelativeToolTip": "KrzychuPilot.API\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:13:55.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PromptProcessingWorker.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Infrastructure\\BackgroundServices\\PromptProcessingWorker.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Infrastructure\\BackgroundServices\\PromptProcessingWorker.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Infrastructure\\BackgroundServices\\PromptProcessingWorker.cs",
+              "RelativeToolTip": "KrzychuPilot.Infrastructure\\BackgroundServices\\PromptProcessingWorker.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowBEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T08:52:58.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPromptNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Common\\Interfaces\\IPromptNotificationService.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Application\\Common\\Interfaces\\IPromptNotificationService.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Common\\Interfaces\\IPromptNotificationService.cs",
+              "RelativeToolTip": "KrzychuPilot.Application\\Common\\Interfaces\\IPromptNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:31:18.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PromptNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Services\\PromptNotificationService.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.API\\Services\\PromptNotificationService.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Services\\PromptNotificationService.cs",
+              "RelativeToolTip": "KrzychuPilot.API\\Services\\PromptNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T09:51:51.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PromptTask.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Domain\\Entities\\PromptTask.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Domain\\Entities\\PromptTask.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Domain\\Entities\\PromptTask.cs",
+              "RelativeToolTip": "KrzychuPilot.Domain\\Entities\\PromptTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:15:15.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetPrompts.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Prompts\\Queries\\GetPrompts.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Application\\Prompts\\Queries\\GetPrompts.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Prompts\\Queries\\GetPrompts.cs",
+              "RelativeToolTip": "KrzychuPilot.Application\\Prompts\\Queries\\GetPrompts.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T20:05:28.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PromptsController.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Controllers\\PromptsController.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.API\\Controllers\\PromptsController.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Controllers\\PromptsController.cs",
+              "RelativeToolTip": "KrzychuPilot.API\\Controllers\\PromptsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T11:14:22.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "KrzychuPilot.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T09:56:08.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseResult.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Common\\Models\\ResponseResult.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Application\\Common\\Models\\ResponseResult.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Common\\Models\\ResponseResult.cs",
+              "RelativeToolTip": "KrzychuPilot.Application\\Common\\Models\\ResponseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T18:42:02.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Common\\Models\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Application\\Common\\Models\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Common\\Models\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "KrzychuPilot.Application\\Common\\Models\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T19:44:26.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreatePromptGroupValidator.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Prompts\\Commands\\CreatePrompt\\CreatePromptGroupValidator.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Application\\Prompts\\Commands\\CreatePrompt\\CreatePromptGroupValidator.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Prompts\\Commands\\CreatePrompt\\CreatePromptGroupValidator.cs",
+              "RelativeToolTip": "KrzychuPilot.Application\\Prompts\\Commands\\CreatePrompt\\CreatePromptGroupValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T18:28:08.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreatePromptGroup.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Prompts\\Commands\\CreatePrompt\\CreatePromptGroup.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Application\\Prompts\\Commands\\CreatePrompt\\CreatePromptGroup.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Prompts\\Commands\\CreatePrompt\\CreatePromptGroup.cs",
+              "RelativeToolTip": "KrzychuPilot.Application\\Prompts\\Commands\\CreatePrompt\\CreatePromptGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T18:41:25.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreatePromptGroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Common\\Models\\CreatePromptGroupDto\\CreatePromptGroupDto.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Application\\Common\\Models\\CreatePromptGroupDto\\CreatePromptGroupDto.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Common\\Models\\CreatePromptGroupDto\\CreatePromptGroupDto.cs",
+              "RelativeToolTip": "KrzychuPilot.Application\\Common\\Models\\CreatePromptGroupDto\\CreatePromptGroupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:46:50.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\appsettings.json",
+              "RelativeDocumentMoniker": "KrzychuPilot.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\appsettings.json",
+              "RelativeToolTip": "KrzychuPilot.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T14:40:16.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KrzychuPilot.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\appsettings.Development.json",
+              "RelativeToolTip": "KrzychuPilot.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T14:40:11.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Dockerfile",
+              "RelativeDocumentMoniker": "KrzychuPilot.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Dockerfile",
+              "RelativeToolTip": "KrzychuPilot.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-05T18:27:45.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260607110135_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Infrastructure\\Migrations\\20260607110135_InitialCreate.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Infrastructure\\Migrations\\20260607110135_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Infrastructure\\Migrations\\20260607110135_InitialCreate.cs",
+              "RelativeToolTip": "KrzychuPilot.Infrastructure\\Migrations\\20260607110135_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T11:01:37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "RelativeToolTip": "KrzychuPilot.Application\\Common\\Interfaces\\IApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T16:28:17.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PromptHub.cs",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Hubs\\PromptHub.cs",
+              "RelativeDocumentMoniker": "KrzychuPilot.API\\Hubs\\PromptHub.cs",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\Hubs\\PromptHub.cs",
+              "RelativeToolTip": "KrzychuPilot.API\\Hubs\\PromptHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T09:50:33.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "KrzychuPilot.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\KrzychuPilot.Application.csproj",
+              "RelativeDocumentMoniker": "KrzychuPilot.Application\\KrzychuPilot.Application.csproj",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.Application\\KrzychuPilot.Application.csproj",
+              "RelativeToolTip": "KrzychuPilot.Application\\KrzychuPilot.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-05T12:43:51.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KrzychuPilot.API.http",
+              "DocumentMoniker": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\KrzychuPilot.API.http",
+              "RelativeDocumentMoniker": "KrzychuPilot.API\\KrzychuPilot.API.http",
+              "ToolTip": "C:\\Users\\48693\\Desktop\\KrzychuPilot\\Backend\\KrzychuPilot.API\\KrzychuPilot.API.http",
+              "RelativeToolTip": "KrzychuPilot.API\\KrzychuPilot.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-06-04T16:13:49.504Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

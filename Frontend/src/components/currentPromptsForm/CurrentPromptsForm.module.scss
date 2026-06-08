@@ -1,0 +1,28 @@
+.promptsForm {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  .promptInput {
+    border: 4px solid #252584;
+    resize: none;
+    width: 70%;
+    margin: 8px 0;
+    height: 65px;
+    margin-right: auto;
+    padding: 5px;
+  }
+
+  .addPromptButton {
+    border: 4px solid #252584;
+    color: #252584;
+    width: 100px;
+    height: 80px;
+    background-color: white;
+
+    &:hover {
+      cursor: pointer;
+      background-color: rgb(230, 221, 221);
+    }
+  }
+}
