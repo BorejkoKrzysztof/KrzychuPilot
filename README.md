@@ -12,7 +12,7 @@ KrzychuPilot is a small  MVP that lets a user submit multiple prompts, stores th
 
 ## Main technologies
 
-- Backend: C#, ASP.NET Core 9, MediatR, Entity Framework Core, SignalR
+- Backend: C#, ASP.NET Core 9, MediatR, Entity Framework Core, SignalR, Fluent Validation
 - Frontend: React, TypeScript, Vite, Axios, React Query, SCSS
 - Database: SQL Server 2022
 - LLM runtime: Ollama
