@@ -1,6 +1,6 @@
 # KrzychuPilot
 
-KrzychuPilot is a small recruitment-task MVP that lets a user submit multiple prompts, stores them in a database, processes them in the background, and shows the current status and result in a React frontend.
+KrzychuPilot is a small  MVP that lets a user submit multiple prompts, stores them in a database, processes them in the background, and shows the current status and result in a React frontend.
 
 ## What is included
 
@@ -12,7 +12,7 @@ KrzychuPilot is a small recruitment-task MVP that lets a user submit multiple pr
 
 ## Main technologies
 
-- Backend: C#, ASP.NET Core 9, MediatR, Entity Framework Core, SignalR
+- Backend: C#, ASP.NET Core 9, MediatR, Entity Framework Core, SignalR, Fluent Validation
 - Frontend: React, TypeScript, Vite, Axios, React Query, SCSS
 - Database: SQL Server 2022
 - LLM runtime: Ollama
