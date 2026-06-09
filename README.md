@@ -1,6 +1,6 @@
 # KrzychuPilot
 
-KrzychuPilot is a small recruitment-task MVP that lets a user submit multiple prompts, stores them in a database, processes them in the background, and shows the current status and result in a React frontend.
+KrzychuPilot is a small  MVP that lets a user submit multiple prompts, stores them in a database, processes them in the background, and shows the current status and result in a React frontend.
 
 ## What is included
 
